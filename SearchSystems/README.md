@@ -14,11 +14,11 @@ This module unlocks:
 
 | Topic | Description | Link |
 |-------|-------------|--------|
-| [✅] What is a Search Engine? | How it differs from a traditional DB | [Search Engines](./SearchEngines)
-| [✅] Full-text vs exact match | Tokenization, stemming, normalization | [Search Engines](./SearchEngines)
-| [ ] Intro to ElasticSearch | The search engine behind giants | [Search Engines](./ElasticSearch)
+| [✅] What is a Search Engine? | How it differs from a traditional DB | [Search Engines](./SearchEngines.md)
+| [✅] Full-text vs exact match | Tokenization, stemming, normalization | [Search Engines](./SearchEngines.md)
+| [ ] Intro to ElasticSearch | The search engine behind giants | [Search Engines](./ElasticSearch.md)
 | [ ] Inverted Index | How documents become searchable |
-| [ ] Analyzers | Break text into searchable chunks |
+| [✅] Analyzers | Break text into searchable chunks |
 | [ ] Mapping & Indexing | Schema definitions and field types |
 | [ ] Match, Term, Wildcard, Range | Different kinds of queries |
 | [ ] Boolean Queries | Combine multiple conditions |
@@ -28,7 +28,7 @@ This module unlocks:
 | [ ] Fuzzy Matching | Handling typos & near matches |
 | [ ] Relevance Scoring | How Elastic ranks results |
 | [ ] Aggregations | Grouping, stats, histograms |
-| [ ] Elastic + Mongo Hybrid | Index search results from MongoDB |
+| [✅] Elastic + Mongo Hybrid | Index search results from MongoDB | [Brief](./Elastic-Mongo-Hybrid.md)
 
 ---
 
