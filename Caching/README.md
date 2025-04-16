@@ -6,9 +6,11 @@ Caching allows you to **serve data faster**, reduce load on DBs, and improve sys
 
 ---
 
+`Read Before going below [Redis as a Instance](./Redis/Connections.md)
+
 ## ✅ Learning Goals
 
-| Topic | Description | Status |
+| Topic | Description | Link |
 |-------|-------------|--------|
 | [ ] What is Caching? | Temporary storage for fast data access |
 | [ ] Caching Layers | Browser, CDN, app layer, DB layer |
@@ -25,6 +27,8 @@ Caching allows you to **serve data faster**, reduce load on DBs, and improve sys
 | [ ] Redis Pub/Sub | Event broadcasting across instances |
 | [ ] Distributed Caching | Horizontal scale-out caching |
 | [ ] Caching in Microservices | Shared cache vs local cache dilemmas |
+
+FOLLOW : https://chatgpt.com/share/67ff5dfb-3a3c-8005-97d2-64e6afe51a4b
 
 ---
 
