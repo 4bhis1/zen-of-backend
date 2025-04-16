@@ -12,11 +12,11 @@ This module unlocks:
 
 ## ✅ Learning Goals
 
-| Topic | Description | Status |
+| Topic | Description | Link |
 |-------|-------------|--------|
-| [ ] What is a Search Engine? | How it differs from a traditional DB |
-| [ ] Full-text vs exact match | Tokenization, stemming, normalization |
-| [ ] Intro to ElasticSearch | The search engine behind giants |
+| [✅] What is a Search Engine? | How it differs from a traditional DB | [Search Engines](./SearchEngines)
+| [✅] Full-text vs exact match | Tokenization, stemming, normalization | [Search Engines](./SearchEngines)
+| [ ] Intro to ElasticSearch | The search engine behind giants | [Search Engines](./ElasticSearch)
 | [ ] Inverted Index | How documents become searchable |
 | [ ] Analyzers | Break text into searchable chunks |
 | [ ] Mapping & Indexing | Schema definitions and field types |
