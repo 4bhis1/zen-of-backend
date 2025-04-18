@@ -24,6 +24,8 @@ In interviews, this is where you **draw class diagrams**, apply **SOLID principl
 | [ ] Responsibility Assignment | SRP, cohesion, separation of concerns |
 | [ ] Unit Testing & Mocking | Writing testable class methods |
 
+## Design Patterns
+
 ---
 
 ## 📎 Resources to Learn

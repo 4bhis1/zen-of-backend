@@ -28,6 +28,8 @@ This module helps you **log, trace, and measure** everything — in development 
 
 ---
 
+Follow : [Link](https://chatgpt.com/share/68008677-5ee8-8005-b374-14126b5a7a4e)
+
 ## 📎 Resources to Learn
 
 - [Prometheus + Grafana Quick Start](https://prometheus.io/docs/visualization/grafana/)
