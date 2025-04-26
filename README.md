@@ -8,15 +8,15 @@ Welcome to your **personal backend engineering bootcamp**, built from the ground
 
 | Domain              | Folder             | What's Inside |
 |---------------------|--------------------|----------------|
-| 📦 1. Databases      | [`/Databases`](./Databases)             | SQL, NoSQL, design, indexes, transactions, scaling, practice questions |
+| 📦 1. Databases      | [`/Databases`](./Databases)             | SQL, NoSQL, design, indexes, transactions, scaling, practice questions |(done)
 | 🏛️ System Design     | [`/SystemDesign`](./SystemDesign)       | HLD, LLD, architecture patterns, case studies, diagrams |
 | 🧩 Low Level Design  | [`/LowLevelDesign`](./LowLevelDesign)   | OOP design, class diagrams, SOLID, design questions |
 | 🏗️ High Level Design | [`/HighLevelDesign`](./HighLevelDesign) | Scalable systems, components, protocols, API gateways |
-| 🚀 Caching           | [`/Caching`](./Caching)                 | Redis, TTLs, eviction, cache patterns, memory design |
+| 🚀 Caching           | [`/Caching`](./Caching)                 | Redis, TTLs, eviction, cache patterns, memory design |(done)
 | 📨 2. Messaging Queues  | [`/MessagingQueue`](./MessagingQueue)   | Kafka, RabbitMQ, message brokers, event-driven systems |
-| 🔎 Search Systems    | [`/SearchSystems`](./SearchSystems)     | ElasticSearch, full-text search, ranking, indexing |
+| 🔎 Search Systems    | [`/SearchSystems`](./SearchSystems)     | ElasticSearch, full-text search, ranking, indexing |(done)
 | 🛡️ 3. Security       | [`/Security`](./Security)               | AuthN/Z, JWT, OAuth2, HTTPS, OWASP, encryption |
-| 📈 Observability     | [`/Observability`](./Observability)     | Logging, monitoring, tracing, alerts, metrics |
+| 📈 Observability     | [`/Observability`](./Observability)     | Logging, monitoring, tracing, alerts, metrics | (done)
 | 🎨 Backend Patterns  | [`/BackendPatterns`](./BackendPatterns) | Clean Architecture, DDD, CQRS, pub-sub, service mesh |
 
 ---

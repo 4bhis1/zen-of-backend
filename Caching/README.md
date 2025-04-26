@@ -17,16 +17,16 @@ Caching allows you to **serve data faster**, reduce load on DBs, and improve sys
 | [ ] Redis vs Memcached | In-memory storage for blazing speed |
 | [ ] TTL (Time to Live) | Set cache expiry |
 | [ ] Eviction Policies | LRU, LFU, FIFO, custom scoring |
-| [ ] Cache Invalidation | The hardest problem in CS 😉 |
-| [ ] Write-through vs Write-behind | Sync cache with DB or delay |
+| [ ] *Cache Invalidation | The hardest problem in CS 😉 |
+| [ ] *Write-through vs Write-behind | Sync cache with DB or delay |
 | [ ] Cache-aside Pattern | Lazy loading, manual population |
-| [ ] CDN Caching | Static asset offloading |
-| [ ] Query Caching | Caching DB queries (with Redis or inside DB) |
-| [ ] Rate Limiting via Cache | Redis counter pattern |
+| [ ] *CDN Caching | Static asset offloading |
+| [ ] *Query Caching | Caching DB queries (with Redis or inside DB) |
+| [ ] *Rate Limiting via Cache | Redis counter pattern |
 | [ ] Session Management | Storing sessions in Redis |
-| [ ] Redis Pub/Sub | Event broadcasting across instances |
-| [ ] Distributed Caching | Horizontal scale-out caching |
-| [ ] Caching in Microservices | Shared cache vs local cache dilemmas |
+| [ ] *Redis Pub/Sub | Event broadcasting across instances |
+| [ ] *Distributed Caching | Horizontal scale-out caching |
+| [ ] *Caching in Microservices | Shared cache vs local cache dilemmas |
 
 FOLLOW : https://chatgpt.com/share/67ff5dfb-3a3c-8005-97d2-64e6afe51a4b
 
