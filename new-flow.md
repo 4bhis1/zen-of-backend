@@ -57,10 +57,10 @@ LLD
 	... list goes on
 
 Databases
-* CAP, tradeoffs and all
-	* Sharding vs Replicas
+* [CAP, tradeoffs and all](Databases/CAP.md)
+	* [Sharding vs Replicas](Databases/Partitioning-Sharding.md)
 	* Master-Slave pattern
-* ACID
+* [ACID](Databases/ACID.md)
 * Normalisation and De-normalisation
 * Indexes
 * Watchers
