@@ -17,7 +17,7 @@ NodeJs
 
 * Practice
 	
-Networking
+Communication
 * GRPC
 * HTTP / HTTPS / HTTP1
 * TCP and UDP and IP
@@ -31,7 +31,7 @@ Networking
 * Idempotnec
 	
 LLD
-* OOPS
+* [OOPS](LLD/OOPS.md)
 * Interface vs Abstract
 * SOLID with examples
 * static class and methods
@@ -45,7 +45,7 @@ LLD
 	* ...more
 	
 - Practice
-	* Parking Lot
+	* [Parking Lot](LLD/practice/parkinglot/readme.md)
 	* Vending Machine
 	* Logging
 	* Traffic Sigmal
@@ -102,14 +102,12 @@ Security
 * CSRF
 * XSS
 * SQL injection
-* Cookies
-* Localsotrage, session storage
+* Cookies vs Localsotrage, session storage
 * Session HiJacking
 * Security Headers
 * Secure Password Storage
 * API Key & HMAC Auth
 * Encryption vs Hasinf
-* differences encryption
 
 HLD
 * Proxies and reverseProxies
