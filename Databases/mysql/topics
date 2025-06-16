@@ -1,0 +1,41 @@
+Common Functions:
+
+ROW_NUMBER()
+
+RANK() / DENSE_RANK()
+
+LEAD() / LAG()
+
+SUM() OVER (PARTITION BY ...)
+
+
+
+
+
+6. Advanced Joins & Set Operations
+Semi Join / Anti Join (NOT EXISTS / NOT IN)
+
+FULL OUTER JOIN
+
+CROSS APPLY / OUTER APPLY (SQL Server)
+
+INTERSECT, EXCEPT
+
+7. Materialized Views
+Like a saved query result. Fast access, slower freshness.
+
+Use Case:
+Pre-computed dashboards or analytics.
+
+9. Triggers & Stored Procedures
+SQL with logic. Think of them as database-side "scripts".
+
+Triggers: ON INSERT/UPDATE/DELETE
+
+Stored Procedures: With parameters, loops, conditionals
+
+10. JSON & XML Handling
+Modern SQL databases can parse and query structured data.
+
+11. Pivoting & Unpivoting
+Transforming rows to columns and vice versa.
